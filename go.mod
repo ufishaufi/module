@@ -1,3 +1,3 @@
-module github.com/ufishaufi/module/v2
+module github.com/ufishaufi/module/v3
 
 go 1.18
